@@ -1,4 +1,4 @@
 phpbot
 ======
 
-PHP IRC Bot
+PHP IRC Bot by Matthew Pavia
