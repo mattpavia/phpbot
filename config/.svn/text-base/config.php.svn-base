@@ -1,0 +1,15 @@
+<?php
+
+$bot_name = "cbot";
+$bot_real_name = "Mr. Awesome Bot";
+$bot_ident = "cbot";
+$bot_password = "1gy7ac7bu7dct15lk";
+
+$channels = array('##aha', '##bzpro', '##bzfux', '##bspress');
+$admins = array('bzflag/player/dexter', 'bzflag/player/aheartattack', 'smartserv/support/abominable');
+$triggers = array("!", "cbot: ", "cbot, ", "cbot ");
+
+// set to true if you want a random message to apear if the command does not exist or the user is not a bot admin and they tried an admin command
+$random = true;
+
+?>

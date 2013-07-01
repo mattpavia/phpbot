@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/senops/!svn/ver/60/branches/phpbot/data
+END
+users.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/senops/!svn/ver/60/branches/phpbot/data/users.txt
+END
+joins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/senops/!svn/ver/60/branches/phpbot/data/joins.txt
+END
+ignoreusers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/senops/!svn/ver/60/branches/phpbot/data/ignoreusers.txt
+END
+karma.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/senops/!svn/ver/60/branches/phpbot/data/karma.txt
+END
+factoids.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/senops/!svn/ver/60/branches/phpbot/data/factoids.txt
+END
